@@ -14,6 +14,7 @@
 #include <string>
 using namespace std;
 /*
+need to create text name it info.txt
 have a vector <node> , node ->string (word),offest of info about it in file
 first
 call class add to write in file use small data (10words)
